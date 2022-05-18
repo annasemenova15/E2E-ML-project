@@ -1,7 +1,7 @@
 # Final-project
 
 ## Source data, statistics
-The source data is rent dataset aggregated from [Yandex.Realty](http://Yandex.Realty) which contains data on the price of rent apartments in Saint Petersburg and their characteristics, such as area, number of rooms, floor, type of renovation, studio, etc. The dataset contains observations from 2014 to 2018 year.
+The source data is rent dataset aggregated from [Yandex.Realty](https://realty.yandex.ru/sankt-peterburg/) which contains data on the price of rent apartments in Saint Petersburg and their characteristics, such as area, number of rooms, floor, type of renovation, studio, etc. The dataset contains observations from 2014 to 2018 year.
 
 This dataset was initially pre-processed and cleaned in order to avoid outliers and missing data, the data format and types was also structured.
 
