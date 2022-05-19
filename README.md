@@ -149,7 +149,7 @@ Then enable port 5441 using the command:
 sudo ufw allow 5441
 ```
 
-After that the app can be launched in the Postman using the public Ip4v of your virtual machine and port (entering @'IP4V':5441/predict_price...).
+After that the app can be launched in the Postman using the public Ipv4 of your virtual machine and port (entering @'IPv4':5441/predict_price...).
 Choose the model version and enter necessary parameters. If some of the parameters are not entered an error will be returned.
 
 ---
@@ -180,4 +180,4 @@ docker pull st095439/final_predictor:v.0.2
 #run the image
 docker run --network host -d st095439/final_predictor:v.0.2
 ```
-The 5441 port is used here, so in order to run the app, you should enter the public Ip4v of your virtual machine and port 5441 in Postman.
+The 5441 port is used here, so in order to run the app, you should enter the public IPv4 of your virtual machine and port 5441 in Postman.
